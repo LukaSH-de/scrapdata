@@ -1,19 +1,4 @@
 {
-  "TestData": {
-    "Testrandom": {
-      "Altenmarkt an der Alz": "altenmarkt an der alz",
-      "Bergen Chiemgau": "bergen chiemgau",
-      "Chieming": "chieming",
-      "Engelsberg Oberbayern": "engelsberg oberbayern",
-      "Fridolfing": "fridolfing",
-      "Grabenstätt Chiemsee": "grabenstätt chiemsee",
-      "Grassau Kreis": "grassau kreis",
-      "Traunstein": "traunstein",
-      "Inzell": "inzell",
-      "Kienberg Oberbayern": "kienberg oberbayern",
-      "Kirchanschöring": "kirchanschöring"
-    }
-  },
   "Bayern": {
     "TRAUNSTEIN": {
       "Altenmarkt an der Alz": "altenmarkt an der alz",

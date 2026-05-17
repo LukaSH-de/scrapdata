@@ -264,6 +264,140 @@
       "Gaißach": "gaißach",
       "Geretsried": "geretsried",
       "Greiling": "greiling"
+    },
+  }
+  "Baden-Württemberg": {
+    "STUTTGART": {
+      "Aalen": "aalen",
+      "Backnang": "backnang",
+      "Bad Mergentheim": "bad mergentheim",
+      "Bietigheim-Bissingen": "bietigheim-bissingen",
+      "Böblingen": "böblingen",
+      "Crailsheim": "crailsheim",
+      "Ellwangen Jagst": "ellwangen jagst",
+      "Esslingen am Neckar": "esslingen am neckar",
+      "Fellbach": "fellbach",
+      "Göppingen": "göppingen"
+    },
+    "LUDWIGSBURG": {
+      "Asperg": "asperg",
+      "Besigheim": "besigheim",
+      "Bietigheim-Bissingen": "bietigheim-bissingen",
+      "Ditzingen": "ditzingen",
+      "Freiberg am Neckar": "freiberg am neckar",
+      "Gerlingen": "gerlingen",
+      "Kornwestheim": "kornwestheim",
+      "Ludwigsburg": "ludwigsburg",
+      "Marbach am Neckar": "marbach am neckar",
+      "Vaihingen an der Enz": "vaihingen an der enz"
+    },
+    "REMS-MURR-KREIS": {
+      "Backnang": "backnang",
+      "Fellbach": "fellbach",
+      "Kernen im Remstal": "kernen im remstal",
+      "Murrhardt": "murrhardt",
+      "Schorndorf": "schorndorf",
+      "Waiblingen": "waiblingen",
+      "Winnenden": "winnenden",
+      "Welzheim": "welzheim",
+      "Weinstadt": "weinstadt",
+      "Leutenbach": "leutenbach"
+    },
+    "ESSLINGEN": {
+      "Aichtal": "aichtal",
+      "Baltmannsweiler": "baltmannsweiler",
+      "Deizisau": "deizisau",
+      "Denkendorf Württemberg": "denkendorf württemberg",
+      "Esslingen am Neckar": "esslingen am neckar",
+      "Filderstadt": "filderstadt",
+      "Kirchheim unter Teck": "kirchheim unter teck",
+      "Leinfelden-Echterdingen": "leinfelden-echterdingen",
+      "Nürtingen": "nürtingen",
+      "Ostfildern": "ostfildern"
+    },
+    "BÖBLINGEN": {
+      "Aidlingen": "aidlingen",
+      "Böblingen": "böblingen",
+      "Ehningen": "ehningen",
+      "Gärtringen": "gärtringen",
+      "Herrenberg": "herrenberg",
+      "Leonberg": "leonberg",
+      "Magstadt": "magstadt",
+      "Renningen": "renningen",
+      "Sindelfingen": "sindelfingen",
+      "Weil der Stadt": "weil der stadt"
+    },
+    "HEILBRONN": {
+      "Bad Friedrichshall": "bad friedrichshall",
+      "Bad Rappenau": "bad rappenau",
+      "Eppingen": "eppingen",
+      "Gundelsheim Württemberg": "gundelsheim württemberg",
+      "Heilbronn": "heilbronn",
+      "Lauffen am Neckar": "lauffen am neckar",
+      "Leingarten": "leingarten",
+      "Möckmühl": "möckmühl",
+      "Neckarsulm": "neckarsulm",
+      "Weinsberg": "weinsberg"
+    },
+    "KARLSRUHE": {
+      "Bretten": "bretten",
+      "Bruchsal": "bruchsal",
+      "Ettlingen": "ettlingen",
+      "Karlsruhe": "karlsruhe",
+      "Philippsburg": "philippsburg",
+      "Rheinstetten": "rheinstetten",
+      "Stutensee": "stutensee",
+      "Waghäusel": "waghäusel",
+      "Waldbronn": "waldbronn",
+      "Walzbachtal": "walzbachtal"
+    },
+    "RASTATT": {
+      "Baden-Baden": "baden-baden",
+      "Bietigheim Baden": "bietigheim baden",
+      "Bühl": "bühl",
+      "Durmersheim": "durmersheim",
+      "Gaggenau": "gaggenau",
+      "Gernsbach": "gernsbach",
+      "Kuppenheim": "kuppenheim",
+      "Muggensturm": "muggensturm",
+      "Rastatt": "rastatt",
+      "Sinzheim": "sinzheim"
+    },
+    "FREIBURG": {
+      "Bad Krozingen": "bad krozingen",
+      "Breisach am Rhein": "breisach am rhein",
+      "Emmendingen": "emmendingen",
+      "Freiburg im Breisgau": "freiburg im breisgau",
+      "Kirchzarten": "kirchzarten",
+      "Lahr Schwarzwald": "lahr schwarzwald",
+      "Müllheim Baden": "müllheim baden",
+      "Offenburg": "offenburg",
+      "Titisee-Neustadt": "titisee-neustadt",
+      "Waldkirch": "waldkirch"
+    },
+    "KONSTANZ": {
+      "Engen Hegau": "engen hegau",
+      "Konstanz": "konstanz",
+      "Radolfzell am Bodensee": "radolfzell am bodensee",
+      "Singen Hohentwiel": "singen hohentwiel",
+      "Stockach Baden": "stockach baden",
+      "Überlingen": "überlingen",
+      "Allensbach": "allensbach",
+      "Gailingen am Hochrhein": "gailingen am hochrhein",
+      "Moos Bodensee": "moos bodensee",
+      "Reichenau Baden": "reichenau baden"
+    },
+    "TÜBINGEN": {
+      "Balingen": "balingen",
+      "Biberach an der Riß": "biberach an der riß",
+      "Hechingen": "hechingen",
+      "Metzingen Württemberg": "metzingen württemberg",
+      "Reutlingen": "reutlingen",
+      "Rottenburg am Neckar": "rottenburg am neckar",
+      "Sigmaringen": "sigmaringen",
+      "Tübingen": "tübingen",
+      "Ulm": "ulm",
+      "Zwiefalten": "zwiefalten"
     }
   }
 }
